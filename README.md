@@ -13,3 +13,5 @@ deletions of every `cla-v*` tag.
 Repositories keep their own outbound `LICENSE` and may add project-specific
 build, testing, provenance, or third-party-material instructions without
 duplicating the contributor agreement.
+
+Note: this `.github` repo's own `LICENSE` is CC-BY-3.0 for the Harmony CLA template text only, not the outbound license for contributions.

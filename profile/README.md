@@ -18,3 +18,5 @@ The pull-request affirmation is the acceptance record.
 Report vulnerabilities through the affected repository's private GitHub
 security advisory form. Never include credentials, posting tokens, or
 counterparty data in reports.
+
+Renders are commissioned from corbet-fx by reference with provenance (prompt hash + model pin recorded in the launch receipt) — no orphan assets. Every fx output links back to its launch folder; unreferenced renders are deleted.

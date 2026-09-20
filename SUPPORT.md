@@ -5,16 +5,11 @@
 Open a GitHub Discussion or issue in the relevant repository. Include:
 
 - Repository and version or commit
-- 
-  `darwinModules`, `nixidyModules`)
-- 
-- Minimal reproduction
+- Launch folder (if applicable)
+- Expected vs actual behavior, minimal reproduction
 
-Do not include private hostnames, LAN or overlay IPs, `/home/<user>` paths,
-credentials, or secrets. Mechanism repos must stay free of private values.
+Do not include posting tokens, bot credentials, counterparty data, or secrets.
 
 ## Scope
 
-Stable mechanisms get best-effort community support. Repositories marked
-experimental, or values under `experiments/`, are research notes, not support
-commitments. Private infrastructure configuration is out of scope.
+Stable launch tooling gets best-effort community support. Experimental formats or unannounced launches are research notes, not support commitments. Dispenser internals and private credentials are out of scope.

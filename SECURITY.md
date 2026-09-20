@@ -11,9 +11,7 @@ configuration, impact assessment, and any known mitigations.
 
 ## Scope
 
-This organization maintains public Nix configuration mechanisms. Host-specific
-values, topology, credentials, and private deployment details are out of scope
-and must never be included in reports or reproductions.
+This organization maintains social content, launch folders, and posting/bot automation. Launch copy, briefs, and receipts are in scope. Posting tokens, bot credentials, counterparty PII, and dispenser internals are out of scope and must never be included in reports or reproductions.
 
 ## Response
 
