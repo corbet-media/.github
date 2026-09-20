@@ -2,7 +2,7 @@
 
 ## Questions
 
-Open a GitHub Discussion or issue in the relevant repository. Include:
+Open a GitHub issue in the relevant repository. Include:
 
 - Repository and version or commit
 - Launch folder (if applicable)
